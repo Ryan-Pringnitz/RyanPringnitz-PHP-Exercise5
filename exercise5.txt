@@ -1,0 +1,1 @@
+pear|apple|strawberry|lime|elderberry|watermelon|orange|banana|fig|mango|plum
